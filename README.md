@@ -1,1 +1,3 @@
 # Challenge-Alura-Store
+
+El challenge tiene como propósito identificar cuál de las cuatro tiendas analizadas debe dejar de utilizarse como canal de ventas, debido a que no genera las ganancias necesarias para justificar su operación. Para ello, se ha realizado un análisis comparativo utilizando variables clave como los productos más vendidos, las categorías con mayores ingresos, el costo promedio de envío y la calificación promedio de los clientes, entre otros. Este análisis permitirá tomar una decisión fundamentada para optimizar los recursos y concentrar los esfuerzos de venta en las tiendas más rentables.
